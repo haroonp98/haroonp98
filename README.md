@@ -1,6 +1,6 @@
 # Hi, I'm Haroon Pehlvi 👋
 
-Master of Cybersecurity and Threat Intelligence (MCTI) Student at the University of Guelph and IoT Software Engineer focused on cloud-native infrastructure, observability, automation, and cybersecurity.
+Master of Cybersecurity and Threat Intelligence (MCTI) from the University of Guelph and IoT Software Engineer focused on cloud-native infrastructure, observability, automation, and cybersecurity.
 
 ---
 
