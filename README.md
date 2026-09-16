@@ -73,15 +73,13 @@ I currently work with Kubernetes-based platforms, observability solutions, infra
 
 ## Featured Projects
 
-🚀 Kubernetes Observability Platform
+🚧 Kubernetes Observability Platform (In Progress)
 
-🚀 Distributed Tracing Pipeline
+🚧 Distributed Tracing Pipeline (In Progress)
 
-🚀 Kubernetes Alerting Framework
+🚧 Infrastructure Automation with Ansible (In Progress)
 
-🚀 Infrastructure Automation with Ansible
-
-🚀 Cyber Threat Intelligence Lab
+🚧 Cyber Threat Intelligence Lab (In Progress)
 
 ---
 
