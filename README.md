@@ -87,7 +87,7 @@ I currently work with Kubernetes-based platforms, observability solutions, infra
 
 ### University of Guelph
 
-**Master of Cybersecurity and Threat Intelligence (MCTI)**
+#### Master of Cybersecurity and Threat Intelligence (MCTI)
 
 Relevant Areas of Study:
 
@@ -97,6 +97,19 @@ Relevant Areas of Study:
 - Artificial Intelligence for Security
 - Applied Cryptography
 - Threat Hunting & Attribution
+
+#### Bachelor of Computing (Software Engineering)
+
+Relevant Areas of Study:
+
+- Software Design & Architecture
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Databases & Information Systems
+- Operating Systems
+- Computer Networks
+- Software Quality Assurance
+- Systems Analysis & Design
 
 ---
 
